@@ -13,3 +13,4 @@ console.log([ermie.breed]);
 enrine[bark]();
 
 var prop = 'breed';
+ernie[prop];
