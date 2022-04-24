@@ -7,7 +7,7 @@ const ernie = {
     }
 }
 
-console.log(ernie.age);
-console.log(ermie.breed);   
+console.log([ernie.age]);
+console.log([ermie.breed]);   
 
 enrine.bark();
