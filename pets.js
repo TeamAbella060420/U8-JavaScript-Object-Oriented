@@ -11,3 +11,4 @@ console.log([ernie.age]);
 console.log([ermie.breed]);   
 
 enrine[bark]();
+
